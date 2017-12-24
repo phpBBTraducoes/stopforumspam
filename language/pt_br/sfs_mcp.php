@@ -2,7 +2,7 @@
 /**
 *
 * Stop forum Spam extension for the phpBB Forum Software package.
-* Brazilian Portuguese translation by eunaumtenhoid (c) 2017 [ver 1.1.7] (https://github.com/phpBBTraducoes)
+* Brazilian Portuguese translation by eunaumtenhoid (c) 2017 [ver 1.1.8] (https://github.com/phpBBTraducoes)
 * @copyright (c) 2017 Rich McGirr (RMcGirr83)
 * @license GNU General Public License, version 2 (GPL-2.0)
 *
@@ -34,5 +34,5 @@ if (empty($lang) || !is_array($lang))
 // in a url you again do not need to specify an order e.g., 'Click %sHERE%s' is fine
 
 $lang = array_merge($lang, array(
-	'LOG_SFS_REPORTED' => '<strong>O usuário foi reportado para Stop Forum Spam</strong><br>» %1$s',
+	'LOG_SFS_REPORTED' => '<strong>O usuário foi reportado ao Stop Forum Spam</strong><br>» %1$s',
 ));

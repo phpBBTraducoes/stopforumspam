@@ -2,7 +2,7 @@
 /**
 *
 * Stop forum Spam extension for the phpBB Forum Software package.
-* Brazilian Portuguese translation by eunaumtenhoid (c) 2017 [ver 1.1.7] (https://github.com/phpBBTraducoes)
+* Brazilian Portuguese translation by eunaumtenhoid (c) 2017 [ver 1.1.8] (https://github.com/phpBBTraducoes)
 * @copyright (c) 2015 Rich McGirr (RMcGirr83)
 * @license GNU General Public License, version 2 (GPL-2.0)
 *
